@@ -149,8 +149,8 @@ Values used for ?, ?: 10, 10
 
 ## References
 
-- [MySQL Connector/C++ 1.1 Developer Guide](https://dev.mysql.com/doc/connector-cpp/1.1/en/)
-- [MySQL Connector/C++ 8.0 Developer Guide](https://dev.mysql.com/doc/connector-cpp/8.0/en/)
-- [std::any class](http://en.cppreference.com/w/cpp/utility/any)
-- [std::unique_ptr smart pointer](https://en.cppreference.com/w/cpp/memory/unique_ptr)
-- [Generating Numeric Sequences in MySQL](https://www.percona.com/blog/2020/07/27/generating-numeric-sequences-in-mysql/)
+- ![MySQL Connector/C++ 1.1 Developer Guide](https://dev.mysql.com/doc/connector-cpp/1.1/en/)
+- ![MySQL Connector/C++ 8.0 Developer Guide](https://dev.mysql.com/doc/connector-cpp/8.0/en/)
+- ![std::any class](http://en.cppreference.com/w/cpp/utility/any)
+- ![std::unique_ptr smart pointer](https://en.cppreference.com/w/cpp/memory/unique_ptr)
+- ![Generating Numeric Sequences in MySQL](https://www.percona.com/blog/2020/07/27/generating-numeric-sequences-in-mysql/)
