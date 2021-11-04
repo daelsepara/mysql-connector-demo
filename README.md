@@ -56,7 +56,7 @@ if (result1)
 
 ## Compiling the sample program
 
-Make sure you change the connection information in ![test.hpp](src/test.hpp/) before compiling.
+Make sure you change the connection information in ![test.hpp](src/test.cpp/) before compiling.
 
 ```
 cd ~/path/to/repo/src
