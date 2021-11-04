@@ -33,7 +33,7 @@ std::string query2 = "SELECT * FROM SEQUENCE_TABLE (100) AS SEQ LIMIT ?, ?";
 auto result2 = db.Query(query2.c_str(), {10, 10});
 ```
 
-As of this moment the DB class supports **std::string**, **const char***, **int**, **bool**, **float**, **double**, and **int** through C++17's **std::any**.
+As of this moment the DB class supports **std::string**, **const char***, **bool**, **float**, **double**, and **int** values through C++17's **std::any**.
 
 ### Reading the results
 
