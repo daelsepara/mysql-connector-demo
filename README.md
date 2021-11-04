@@ -1,6 +1,6 @@
 # MySQL Connector/C++ Library Demo
 
-This is a demonstration of how to use mysql-connector library in C++
+This is a single header file demonstration of how to use mysql-connector library in C++. It uses smart pointers in to automatically free up allocated resources whenever they go out of scope. 
 
 ## Requires
 
@@ -151,4 +151,5 @@ Values used for ?, ?: 10, 10
 
 - [MySQL Connector/C++ 1.1 Developer Guide](https://dev.mysql.com/doc/connector-cpp/1.1/en/)
 - [MySQL Connector/C++ 8.0 Developer Guide](https://dev.mysql.com/doc/connector-cpp/8.0/en/)
-- [std::any](http://en.cppreference.com/w/cpp/utility/any)
+- [std::any class](http://en.cppreference.com/w/cpp/utility/any)
+- [std::unique_ptr smart pointer](https://en.cppreference.com/w/cpp/memory/unique_ptr)
