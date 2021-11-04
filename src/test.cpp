@@ -23,6 +23,7 @@ int main(void)
 
 		while (result1->next())
 		{
+			// show the value first field/column
 			std::cout << result1->getString(1) << std::endl;
 		}
 	}
@@ -39,6 +40,7 @@ int main(void)
 
 		while (result2->next())
 		{
+			// show the value first field/column
 			std::cout << result2->getString(1) << std::endl;
 		}
 	}
