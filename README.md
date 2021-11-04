@@ -1,4 +1,5 @@
-# mysql-connector-demo
+# MySQL Connector/C++ Library Demo
+
 This is a demonstration of how to use mysql-connector library in C++
 
 ## Requires
