@@ -151,3 +151,4 @@ Values used for ?, ?: 10, 10
 
 - [MySQL Connector/C++ 1.1 Developer Guide](https://dev.mysql.com/doc/connector-cpp/1.1/en/)
 - [MySQL Connector/C++ 8.0 Developer Guide](https://dev.mysql.com/doc/connector-cpp/8.0/en/)
+- [std::any](http://en.cppreference.com/w/cpp/utility/any)
