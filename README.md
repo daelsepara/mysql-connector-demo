@@ -63,7 +63,7 @@ cd ~/path/to/repo/src
 make
 ```
 
-## To test
+## Testing
 
 ```
 cd ~/path/to/repo/src
