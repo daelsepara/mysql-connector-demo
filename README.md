@@ -3,6 +3,7 @@
 This is a demonstration of how to use mysql-connector library in C++
 
 ## Requires
+
 - MySQL Connector for C++ (development) files (>= 1.1.12)
 - MySQL Connector for C++ (library) (>= 1.1.12)
 - C++ compiler with C++17 support
@@ -55,7 +56,7 @@ if (result1)
 
 ## Compiling the sample program
 
-Make sure you change the connection information in **test.hpp** before compiling
+Make sure you change the connection information in ![test.hpp](src/test.hpp/) before compiling.
 
 ```
 cd ~/path/to/repo/src
